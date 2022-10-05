@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+data/
+**/*/cifar*
+cifar-10-python.tar.gz
